@@ -9,7 +9,7 @@
     "react-scripts": "2.0.5"
   },
   "scripts": {
-    "predeploy": "react-scripts start",
+    "predeploy": "react-scripts build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
